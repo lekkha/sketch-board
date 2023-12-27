@@ -35,6 +35,19 @@ body{
     border-radius: 2rem;
 }
 
+.scale-tools{
+    animation-name: scale-tools;
+    animation-duration: 1s;
+}
+@keyframes scale-tools{
+    0% {
+        transform: scale(0.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
 .tools-cont > * {
     display: block;
     width: 3.5rem;
@@ -49,6 +62,7 @@ body{
     left: 18vw;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 2rem;
+    display: none;
 }
 
 .pencil-width-cont{
@@ -92,7 +106,7 @@ body{
     height: 2rem;
     width: 8rem;
     background-color:#f1f2f6;
-    display: flex;
+    display: none;
     justify-content: center;
     align-items: center;
     position: absolute;
