@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.options-cont{
+    height: 3.5rem;
+    width: 3.5rem;
+    background-color: #f1f2f6;
+    position: absolute;
+    top: 3rem;
+    left: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.tools-cont{
+    display: flex;
+    height: 5rem;
+    background-color: #f1f2f6;
+    width: 65vw;
+    justify-content: space-around;
+    position: absolute;
+    top: 2.5rem;
+    left: 18vw;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2rem;
+}
+
+.tools-cont > * {
+    display: block;
+    width: 3.5rem;
+}
+
+.pencil-tool-cont{
+    height: 5rem;
+    width: 8rem;
+    background-color:#f1f2f6;
+    position: absolute;
+    top: 8rem;
+    left: 18vw;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2rem;
+}
+
+.pencil-width-cont{
+
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.pencil-width-cont input {
+    width: 80%;
+}
+
+.pencil-color-cont{
+    height: calc(100% - 2rem);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    gap: 1rem;
+}
+
+.pencil-color{
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 50%;
+}
+.black{
+    background-color: black;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.eraser-tool-cont{
+    height: 2rem;
+    width: 8rem;
+    background-color:#f1f2f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 8rem;
+    left: 29vw;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 2rem;
+}
+
+.eraser-tool-cont input{
+    width: 80%;
+}
