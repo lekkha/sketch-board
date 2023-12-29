@@ -1,6 +1,6 @@
 # Live Draw
 
-[![Build Status](https://travis-ci.org/your-username/live-draw.svg?branch=main)](https://my-sketch-coard.onrender.com)
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://my-sketch-coard.onrender.com)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
