@@ -3,7 +3,6 @@
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://my-sketch-coard.onrender.com)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Rendering Engine](https://img.shields.io/badge/rendering%20engine-YourEngine-blue.svg)
 ![JavaScript](https://img.shields.io/badge/javascript-vanilla-yellow.svg)
 ![NodeJs](https://img.shields.io/badge/nodejs-v14-green.svg)
 ![HTML5](https://img.shields.io/badge/html5-orange.svg)
