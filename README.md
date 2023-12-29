@@ -5,6 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![JavaScript](https://img.shields.io/badge/javascript-vanilla-yellow.svg)
 ![NodeJs](https://img.shields.io/badge/nodejs-v14-green.svg)
+![Express.js](https://img.shields.io/badge/express.js-v4.17.1-lightgrey.svg)
 ![HTML5](https://img.shields.io/badge/html5-orange.svg)
 ![CSS3](https://img.shields.io/badge/css3-blue.svg)
 
@@ -28,13 +29,11 @@ Correct any mistakes with the handy undo and redo feature. Enjoy a stress-free d
 Collaborate with others in real-time using advanced socket technology. Share your work, receive instant feedback, and witness the magic of collaborative creativity.
 
 ## Technologies Used
-
-- **JavaScript (Vanilla JS)**
-- **NodeJs**
-- **ExpressJs**
-- **Socket Technology**
-- **HTML5**
-- **CSS3**
+- **JavaScript:** ![Vanilla JS](https://img.shields.io/badge/javascript-vanilla-yellow.svg)
+- **NodeJs:** ![Node.js](https://img.shields.io/badge/nodejs-v14-green.svg)
+- **Express.js:** ![Express.js](https://img.shields.io/badge/express.js-v4.17.1-lightgrey.svg)
+- **HTML5:** ![HTML5](https://img.shields.io/badge/html5-orange.svg)
+- **CSS3:** ![CSS3](https://img.shields.io/badge/css3-blue.svg)
 
 ## Usage 
 To start using Live Draw, open the application in your web browser and explore the features. Create, share, and collaborate in real-time with fellow users.
@@ -42,23 +41,11 @@ To start using Live Draw, open the application in your web browser and explore t
 ## Getting Started
 
 1. **Clone the repository.**
-2. **Run `npm install` to install dependencies.**
-3. **Start the server using `npm start`.**
-4. **Open the application in your preferred web browser.**
+2. **Navigate to the project directory.**
+3. **Install dependencies with `npm install`.**
+4. **Start the project with `npm start`.**
+5. **Open your browser and go to [https://my-sketch-coard.onrender.com](https://my-sketch-coard.onrender.com).**
 
-## Project Tags
-
-- **#javascript**
-- **#html5**
-- **#css3**
-- **#project**
-- **#frontend**
-- **#frontenddevelopment**
-- **#vanillajs**
-- **#sockets**
-- **#nodejs**
-- **#expressjs**
-- **#npm**
 
 ## Installation Instructions
 
